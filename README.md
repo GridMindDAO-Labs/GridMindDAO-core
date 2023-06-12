@@ -1,2 +1,0 @@
-# GridMindDAO-core
-GridMindDAO-core
